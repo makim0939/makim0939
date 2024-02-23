@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2>Hi there 👋</h2> 
+<p><b>I enjoy development and being creative👩‍💻🎨</b></p>
 
 <!--
 **makim0939/makim0939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
